@@ -12,16 +12,16 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
-global.botname = "αrch md"
-global.ownername = ""
+global.owner = "2348088410725"
+global.botname = "Dechris Bot"
+global.ownername = "Dechris"
 global.simbol = "♘"
 global.typeMenu = 'v1' //don't change 
 global.anticall = false // set true to turn anticall always on
-global.prefix = '.' // your desired prefix symbol only
+global.prefix = '+' // your desired prefix symbol only
 global.channel = ''
 global.timezone = 'Africa/Lagos'
-global.author = 'Ednut'
+global.author = 'Dechris'
 global.packname = 'Arch Md ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
@@ -36,7 +36,7 @@ reply: "https://files.catbox.moe/9nrqqg.jpg",
 
 // Message Command 
 global.mess = {
-	owner: "*Access Denied* This feature is for bot owners only!",
+	owner: "*Access Denied* This feature is for Dechris only!",
 	admin: "*Access Denied* This feature is for group admins only!!",
 	botAdmin: "*Access Denied* This feature is only for when the bot is an admin.!",
 	group: "*Access Denied* This feature is for groups only!",
