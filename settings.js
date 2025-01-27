@@ -22,7 +22,7 @@ global.prefix = '+' // your desired prefix symbol only
 global.channel = ''
 global.timezone = 'Africa/Lagos'
 global.author = 'Dechris'
-global.packname = 'Arch Md ²⁵'
+global.packname = 'Dechris ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
 global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
